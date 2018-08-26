@@ -1,2 +1,2 @@
 # blockly-hepialight
-Blockly library for hepiaLight
+A Blockly blocks library for hepiaLight
